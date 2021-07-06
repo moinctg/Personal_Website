@@ -60,14 +60,11 @@ body{
   width: 40%;
   margin-left: 400px;
   padding-left: 15px 8px 5px 5px;
-  text-overflow: ellipsis;
-  
-  
+  text-overflow: ellipsis;  
 }
 .txt-area h3{
     color: dimgrey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
 }
 .experience-area div{
 
@@ -75,13 +72,20 @@ body{
   height: 30%;
 }
 #contect-box{
-
  border-radius: 2px solid;
   width: 25%;
   padding:3px 3px;;
   font-family:Arial, Helvetica, sans-serif;
   margin-bottom: 50px;
-
+  text-align: center;
+}
+.footer{
+  background-color: #000005;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  padding-left: 20px;
 
 }
 
